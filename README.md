@@ -39,7 +39,7 @@ In this project, as stated in the title, results were obtained through two diffe
 | 16 | Unnamed: 16 | 9357 non-null | float64
 
 ### Prediction
-Titania sensor response prediction based on Benzene concentration in 20 microg/m³
+Titania sensor response prediction based on Benzene concentration in 20 microg/m³.
 
  **1.** Linear regression
  
