@@ -11,10 +11,10 @@ The dataset contains **9358 instances** of hourly averaged responses from an arr
 
 ## Methodology
 
-In this project, as stated in the title, results were obtained through three different methods. These methods are as respectively listed below:
+In this project, as stated in the title, results were obtained through two different methods. These methods are as respectively listed below:
 
- ***1. Linear Regression
- 2. Polynomial Regression***
+ 1. Linear Regression
+ 2. Polynomial Regression
 
 ## Analysis
 
